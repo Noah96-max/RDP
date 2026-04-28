@@ -1,4 +1,4 @@
-name: Gartic RDP (Win10 + Max Virtual RAM)
+name: EMAD SAIF
 on:
   workflow_dispatch:
 
